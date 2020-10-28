@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.tijo</groupId>
 	<artifactId>api-mail-dto</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.1</version>
 	<name>api-mail-dto</name>
 	<description>DTO do microsserviço responsável pela comunicação com o cliente (email, what's, sms e etc)</description>
 
