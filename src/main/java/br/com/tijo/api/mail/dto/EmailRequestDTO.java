@@ -1,9 +1,18 @@
 package br.com.tijo.api.mail.dto;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.google.gson.annotations.SerializedName;
+
 public class EmailRequestDTO {
 
+	@SerializedName("email")
+	@JsonProperty("email")	
 	private String email;
+	@SerializedName("userName")
+	@JsonProperty("userName")	
 	private String userName;
+	@SerializedName("tempPsw")
+	@JsonProperty("tempPsw")	
 	private String tempPsw;
 
 	public String getEmail() {
