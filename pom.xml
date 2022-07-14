@@ -16,6 +16,14 @@
 		<main.basedir>${basedir}/../..</main.basedir>
 		<sonar.dependencyCheck.reportPath>${basedir}/dependency-check-report.xml</sonar.dependencyCheck.reportPath>
 	</properties>
+	
+	<distributionManagement>
+	   <repository>
+	     <id>github</id>
+	     <name>GitHub OWNER Apache Maven Packages</name>
+	     <url>https://maven.pkg.github.com/cleber-ortiz</url>
+	   </repository>
+	</distributionManagement>	
 
 	<dependencies>
 		<dependency>
