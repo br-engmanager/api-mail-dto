@@ -5,7 +5,7 @@
 
 	<groupId>br.com.engmanager</groupId>
 	<artifactId>api-mail-dto</artifactId>
-	<version>1.0.4</version>
+	<version>1.0.5</version>
 	<name>api-mail-dto</name>
 	<description>DTO do microsserviço responsável pela comunicação com o cliente (email, what's, sms e etc)</description>
 

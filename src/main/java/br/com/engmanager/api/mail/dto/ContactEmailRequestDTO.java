@@ -1,4 +1,4 @@
-package br.com.tijo.api.mail.dto;
+package br.com.engmanager.api.mail.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.google.gson.annotations.SerializedName;
