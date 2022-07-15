@@ -21,7 +21,7 @@
 	   <repository>
 	     <id>github</id>
 	     <name>GitHub OWNER Apache Maven Packages</name>
-	     <url>https://maven.pkg.github.com/bf-engmanager/api-mail-dto</url>
+	     <url>https://maven.pkg.github.com/br-engmanager/api-mail-dto</url>
 	   </repository>
 	</distributionManagement>	
 
